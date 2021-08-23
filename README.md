@@ -1,1 +1,3 @@
-# test_release_internal
+# test_release
+
+proj a alpha drop
